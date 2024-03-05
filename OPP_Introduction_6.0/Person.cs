@@ -39,6 +39,7 @@ namespace OOP_Introduction
         public Person(string lname)
         {
             lastName = lname;
+            //
         }
     }
 }
